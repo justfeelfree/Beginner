@@ -1,4 +1,4 @@
-group 'Lesson1'
+group 'Lesson01'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'

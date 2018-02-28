@@ -26,13 +26,13 @@ public class Demo {
         // вывести обычную переменную из обычного метода можно
         System.out.println(instanceName);
 
+
+
         // вывести статическую переменную из обычного метода можно
         // System.out.println(staticName);
     }
 
     public static void main(String[] args) {
-
         // Задание: ничего не меняя в методах и переменных вызови здесь оба метода staticPrint() и instancePrint()
-
     }
 }
